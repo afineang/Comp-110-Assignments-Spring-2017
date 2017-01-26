@@ -1,6 +1,6 @@
 # Week 1 Project  
 
-## Your name should appear here!
+## Anna Fineanganofo 
 
 <!-- leave this material as is -->
 Compiled on `r date()`.
@@ -10,4 +10,10 @@ library(DataComputing)
 ```
 <!-- put your content after this line -->
 
-Here is my content!
+[Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama) was elected president in 2008 to the presidency.
+
+1. President Obama was a former senator from Illinois.
+1. He was a community organizer in Chicago.
+1. His mother was from Kansas and father was from Kenya.
+
+![Barack Obama's portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg)
